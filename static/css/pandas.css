@@ -20,6 +20,18 @@ h3 {
 a {
     color: #130654;
 }
+a:link:not(.btn) {
+text-decoration: none;
+}
+a:visited:not(.btn) {
+text-decoration: none;
+}
+a:hover:not(.btn) {
+text-decoration: underline;
+}
+a:active:not(.btn) {
+text-decoration: underline;
+}
 code {
     white-space: pre;
 }
