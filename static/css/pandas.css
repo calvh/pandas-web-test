@@ -20,16 +20,16 @@ h3 {
 a {
     color: #130654;
 }
-a:link:not(.btn) {
+a:link:not(.btn):not(.dropdown-item):not(.nav-link) {
 text-decoration: none;
 }
-a:visited:not(.btn) {
+a:visited:not(.btn):not(.dropdown-item):not(.nav-link) {
 text-decoration: none;
 }
-a:hover:not(.btn) {
+a:hover:not(.btn):not(.dropdown-item):not(.nav-link) {
 text-decoration: underline;
 }
-a:active:not(.btn) {
+a:active:not(.btn):not(.dropdown-item):not(.nav-link) {
 text-decoration: underline;
 }
 code {
