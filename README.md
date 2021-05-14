@@ -1,12 +1,18 @@
 # pandas-web-test
 
-Test changes to Pandas website
+Test changes to Pandas website. Current Bootstrap version is 4.0
 
-## Instructions to Test Locally
+## Live Version
+
+https://adoring-swanson-8508a0.netlify.app/
+
+## How to Test Locally
 
 Clone using `git clone`.
 Serve on localhost (e.g., python3 -m http.server)
 
-## Notes
+## Issue Tracker
 
-- Current Bootstrap version is 4.0
+| File         |  Element  |
+| ------------ | :-------: |
+| `index.html` | jumbotron |
